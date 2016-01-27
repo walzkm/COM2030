@@ -1,2 +1,2 @@
 # COM2030
-Shared space for class
+[Class Link](http://vanhoesenj.github.io/data.html)
